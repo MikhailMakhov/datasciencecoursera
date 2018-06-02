@@ -1,2 +1,2 @@
 # datasciencecoursera
-A Repo made for the Courser Data Science project.
+A Repo made for the Coursera Data Science project.
